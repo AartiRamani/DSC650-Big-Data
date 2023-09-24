@@ -1,0 +1,10 @@
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\3fc97f163d3a272a53e6c7c6b54cbee5.jpg -- Description : king_penguin-- Probability : 0.9999255
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\62WplVyX4AKxuNRTGKDi.webp -- Description : leopard-- Probability : 0.7187949
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\ElephantsBirthday_06-1-320x320.jpg -- Description : Indian_elephant-- Probability : 0.9616406
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\Giant_Panda_2004-03-2.jpg -- Description : giant_panda-- Probability : 0.9997714
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\images.jpeg -- Description : gazelle-- Probability : 0.5124247
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\images_bird.jpeg -- Description : macaw-- Probability : 0.99984896
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\lamb-iStock-665494268.jpg -- Description : ram-- Probability : 0.855086
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\photo-1566650554919-44ec6bbe2518.jpeg -- Description : peacock-- Probability : 0.99999845
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\Rhesus_Macaque.jpg -- Description : mongoose-- Probability : 0.27290925
+C:\Users\aarti\DSC650-T302 Big Data (2241-1)\Week 6\images\shutterstock_2233169475.jpg -- Description : Arctic_fox-- Probability : 0.9683364
